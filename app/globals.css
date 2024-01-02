@@ -21,7 +21,3 @@
     font-family: 'VisbyRound-Bold';
     src: url('../fonts/VisbyRound-Bold.otf') format('opentype');
 }
-
-::selection{
-    color: goldenrod;
-}
