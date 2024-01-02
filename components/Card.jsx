@@ -7,7 +7,6 @@ import Remove from './Button/Remove'
 
 export default function Card({ reference }) {
     const isLargeScreen = window.innerWidth >= 1024;
-    
     return (
         <>
             {isLargeScreen ? (
